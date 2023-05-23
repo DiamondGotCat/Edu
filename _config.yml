@@ -28,7 +28,7 @@ twitter_username:
 github_username:  DiamondGotCat
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
