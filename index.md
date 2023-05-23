@@ -6,5 +6,5 @@ title: Welcome
 
 <h1>ようこそ!</h1>
 
-[説明はこちら](/about.md)
-[小5](/S/5)
+[説明はこちら](/Edu/about.md)
+[小5](/Edu/S/5)
